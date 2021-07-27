@@ -4,8 +4,8 @@ Eu me sinto triste, deprimido e insuficiente por estar morrendo com isso.
 [![PessoasFelizes](https://www.kardecriopreto.com.br/wp-content/uploads/2018/02/o-FELICIDADE-facebook-660x330.jpg)](https://loopisjr.com.br)
 
 ```CSS
-		body{
-background-color: red;
+body{
+	background-color: red;
 }	
 ``` 
 
